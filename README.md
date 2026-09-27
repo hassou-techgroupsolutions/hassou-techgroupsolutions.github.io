@@ -1,11 +1,23 @@
-[# HASSOU TechGroup Solutions Portfolio
+# HASSOU TechGroup Solutions
 
 **Your Ideas. Our Solutions.**
-# tgroup_solutions.dev
 
-Official portfolio website of **TechGroup Solutions**, a collaborative development team focused on building practical, scalable, and user-centered digital solutions for businesses, organizations, institutions, and project teams.
+### About HASSOU
 
-The portfolio showcases our experience in **web development, application-based system development, custom management systems, database-driven solutions, UI/UX design, technical documentation, system maintenance, and digital product development**.
+HASSOU TechGroup Solutions is an emerging technology brand dedicated to transforming ideas into practical, reliable, and user-centered digital solutions.
 
-## 🚀 Live Site
-https://hassou-techgroupsolutions.github.io/
+Our portfolio highlights our development projects, technical capabilities, and experience across web and application development, custom management systems, database solutions, UI/UX design, technical documentation, and software development.
+
+Our areas of focus also include hardware and software maintenance, IT support, and capstone and thesis consultation.
+
+We believe every meaningful solution begins with an idea.
+
+### 🚀 Our Portfolio
+
+Explore our development projects, technical work, and continuing journey through our official portfolio website.
+
+### 💡 Our Philosophy
+
+**HASSOU (発想)** represents ideas, inspiration, and creative thinking.
+
+Our philosophy is simple: **Your Ideas. Our Solutions.**
