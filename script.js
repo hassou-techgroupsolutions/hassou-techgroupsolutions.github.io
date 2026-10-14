@@ -44,12 +44,17 @@ function initSiteIntro() {
     const routeLabels = {
         hero: 'Preparing the portfolio',
         problems: 'Opening Problems We Solve',
+        'why-us': 'Opening Why Us',
         services: 'Opening Services',
         portfolio: 'Opening Case Studies',
+        industries: 'Opening Industries & Use Cases',
+        proof: 'Opening Developer Proof',
+        recognition: 'Opening Recognition',
         process: 'Opening Process',
+        capabilities: 'Opening Capabilities',
+        delivery: 'Opening Delivery & Engagement',
         estimator: 'Opening Project Planner',
         team: 'Opening Our Team',
-        capstone: 'Opening Capstone & Thesis Support',
         faq: 'Opening FAQ',
         contact: 'Opening Contact'
     };
@@ -559,11 +564,11 @@ function initHeroDynamicLine() {
     if (!target || prefersReducedMotion.matches) return;
 
     const phrases = [
-        'Understand → Plan → Build → Test.',
-        'Workflow-first systems for real operations.',
-        'Custom systems, databases, QA and improvement.',
-        'Built around requirements—not generic templates.',
-        'Start with the problem. Scope the right solution.'
+        'Web and application development.',
+        'Custom systems and database solutions.',
+        'UI/UX improvement, QA and debugging.',
+        'IT support and technical troubleshooting.',
+        'Capstone and Thesis project support.'
     ];
 
     let index = 0;
@@ -916,6 +921,7 @@ function initProjectEstimator() {
             'Web Application': 2,
             'Application-Based System': 3,
             'Existing System Upgrade': 2,
+            'Capstone / Thesis System Project': 3,
             'Custom Management System': 3
         }[type] || 2;
 

@@ -1,7 +1,7 @@
 {
   "name": "HASSOU TechGroup Solutions",
   "short_name": "HASSOU",
-  "description": "HASSOU TechGroup Solutions portfolio for web applications, custom systems, database solutions, UI/UX improvement, QA/debugging, system enhancement, and project support.",
+  "description": "HASSOU TechGroup Solutions portfolio for web, application, custom system, database, UI/UX, and maintenance services.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

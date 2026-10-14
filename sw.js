@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hassou-portfolio-v13-client-conversion';
+const CACHE_NAME = 'hassou-portfolio-v13-1-original-client-conversion';
 const CORE_ASSETS = [
   './',
   './index.html',
@@ -14,6 +14,9 @@ const CORE_ASSETS = [
   './offline.html',
   './images/hassou-mark-clean.webp',
   './images/hassou-mark-clean.png',
+  './images/hassou-avatar-circle-clean.webp',
+  './images/hassou-lockup-clean.webp',
+  './images/hassou-lockup-clean.png',
   './images/social-preview.jpg',
   './images/rhu-morong-showcase.webp',
   './images/cathyrine-menguito-team.jpg',

@@ -1,11 +1,11 @@
 # GitHub Pages Deployment
 
-1. Open the repository that publishes `https://hassou-techgroupsolutions.github.io/` (the HASSOU TechGroup Solutions GitHub organization/site repository).
+1. Open the `tgroup_solutions.dev` repository.
 2. Upload **all files and folders from this release root**.
 3. Preserve the `images/` and `case-studies/` directories exactly.
 4. Keep `.nojekyll` in the repository root.
-5. Commit the changes to the branch configured for GitHub Pages.
-6. Open `https://hassou-techgroupsolutions.github.io/` and verify the Home, Services, Case Studies, Capstone & Thesis, Project Planner, FAQ, and Contact sections.
-7. If an older cached design appears, use `Ctrl + Shift + R` once or clear the site's stored service-worker/cache data.
+5. Commit the changes to the branch used by GitHub Pages.
+6. Open `https://hassou-techgroupsolutions.github.io/`.
+7. If the older design still appears, use `Ctrl + Shift + R` once.
 
-The service-worker cache for this release is `hassou-portfolio-v13-client-conversion`.
+The service-worker cache for this release is `hassou-portfolio-v12-5-final`.
