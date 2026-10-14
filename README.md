@@ -1,9 +1,6 @@
-# HASSOU TechGroup Solutions Portfolio — V13 Client Conversion Edition
+# HASSOU TechGroup Solutions Portfolio 
 
 **Live site:** https://hassou-techgroupsolutions.github.io/
-
-This release refocuses the portfolio around a clear client journey: problem → services → evidence → process → team → Capstone/Thesis support → free project brief → FAQ → inquiry. It also fixes canonical/social metadata URLs, aligns the service offer with current HASSOU positioning, and makes the free initial project assessment a consistent primary CTA.
-
 **Your Ideas. Our Solutions.**
 
 ### About HASSOU
