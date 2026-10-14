@@ -2,8 +2,6 @@
 
 **Live site:** https://hassou-techgroupsolutions.github.io/
 
-**Your Ideas. Our Solutions.**
-
 ### About HASSOU
 
 HASSOU TechGroup Solutions is an emerging technology brand dedicated to transforming ideas into practical, reliable, and user-centered digital solutions.
