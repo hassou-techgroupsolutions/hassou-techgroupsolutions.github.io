@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hassou-portfolio-v12-5-2-clean-hero-footer';
+const CACHE_NAME = 'hassou-portfolio-v13-client-conversion';
 const CORE_ASSETS = [
   './',
   './index.html',
@@ -14,12 +14,6 @@ const CORE_ASSETS = [
   './offline.html',
   './images/hassou-mark-clean.webp',
   './images/hassou-mark-clean.png',
-  './images/hassou-avatar-circle-clean.webp',
-  './images/hassou-lockup-clean.webp',
-  './images/hassou-lockup-clean.png',
-  './images/hassou-hero-clean-720.webp',
-  './images/hassou-hero-clean-1100.webp',
-  './images/hassou-hero-clean-1500.webp',
   './images/social-preview.jpg',
   './images/rhu-morong-showcase.webp',
   './images/cathyrine-menguito-team.jpg',

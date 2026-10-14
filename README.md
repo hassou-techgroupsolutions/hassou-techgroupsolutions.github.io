@@ -1,4 +1,8 @@
-# HASSOU TechGroup Solutions
+# HASSOU TechGroup Solutions Portfolio — V13 Client Conversion Edition
+
+**Live site:** https://hassou-techgroupsolutions.github.io/
+
+This release refocuses the portfolio around a clear client journey: problem → services → evidence → process → team → Capstone/Thesis support → free project brief → FAQ → inquiry. It also fixes canonical/social metadata URLs, aligns the service offer with current HASSOU positioning, and makes the free initial project assessment a consistent primary CTA.
 
 **Your Ideas. Our Solutions.**
 
@@ -6,9 +10,9 @@
 
 HASSOU TechGroup Solutions is an emerging technology brand dedicated to transforming ideas into practical, reliable, and user-centered digital solutions.
 
-Our portfolio highlights our development projects, technical capabilities, and experience across web and application development, custom management systems, database solutions, UI/UX design, technical documentation, and software development.
+Our portfolio highlights documented project experience and current services across web and application development, custom systems, database solutions, UI/UX improvement, software maintenance, QA/debugging, existing-system enhancement, system support, deployment, and project handover.
 
-Our areas of focus also include hardware and software maintenance, IT support, and capstone and thesis consultation.
+For students, HASSOU also offers scoped Capstone and Thesis system development and documentation support, including enhancement, QA/debugging, technical consultation, and pre-defense preparation. Students remain responsible for school requirements, authorship, and understanding the work they present.
 
 We believe every meaningful solution begins with an idea.
 

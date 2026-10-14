@@ -44,17 +44,12 @@ function initSiteIntro() {
     const routeLabels = {
         hero: 'Preparing the portfolio',
         problems: 'Opening Problems We Solve',
-        'why-us': 'Opening Why Us',
         services: 'Opening Services',
         portfolio: 'Opening Case Studies',
-        industries: 'Opening Industries & Use Cases',
-        proof: 'Opening Developer Proof',
-        recognition: 'Opening Recognition',
         process: 'Opening Process',
-        capabilities: 'Opening Capabilities',
-        delivery: 'Opening Delivery & Engagement',
         estimator: 'Opening Project Planner',
         team: 'Opening Our Team',
+        capstone: 'Opening Capstone & Thesis Support',
         faq: 'Opening FAQ',
         contact: 'Opening Contact'
     };
@@ -564,11 +559,11 @@ function initHeroDynamicLine() {
     if (!target || prefersReducedMotion.matches) return;
 
     const phrases = [
-        'Web, application and database solutions.',
+        'Understand → Plan → Build → Test.',
         'Workflow-first systems for real operations.',
-        'Interface, application logic, data and delivery.',
+        'Custom systems, databases, QA and improvement.',
         'Built around requirements—not generic templates.',
-        'Web platform or application-based system: scope decides.'
+        'Start with the problem. Scope the right solution.'
     ];
 
     let index = 0;
