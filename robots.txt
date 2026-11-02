@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://hassou-techgroupsolutions.github.io/sitemap.xml
