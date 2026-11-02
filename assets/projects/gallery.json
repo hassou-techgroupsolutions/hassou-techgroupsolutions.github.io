@@ -1,0 +1,28 @@
+{
+  "rhu-morong": [
+    "assets/projects/rhu-morong-1.webp",
+    "assets/projects/rhu-morong-2.webp",
+    "assets/projects/rhu-morong-3.webp"
+  ],
+  "angono-career": [
+    "assets/projects/angono-career-1.webp",
+    "assets/projects/angono-career-2.webp",
+    "assets/projects/angono-career-3.webp"
+  ],
+  "mbmis": [
+    "assets/projects/mbmis-1.webp",
+    "assets/projects/mbmis-2.webp"
+  ],
+  "rsst-credentials": [
+    "assets/projects/rsst-credentials-1.webp",
+    "assets/projects/rsst-credentials-2.webp",
+    "assets/projects/rsst-credentials-3.webp"
+  ],
+  "ritremis": [
+    "assets/projects/ritremis-1.webp",
+    "assets/projects/ritremis-2.webp"
+  ],
+  "howcan-help": [
+    "assets/projects/howcan-help-1.webp"
+  ]
+}
